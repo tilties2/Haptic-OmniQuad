@@ -14,5 +14,5 @@ of research center. This work wants to enhance accessibility of these technologi
  In this repository, we share the CAD resorces for the open-source OMAV platform with
  Haptic RC:
 
-- [OMAV platform CAD resources](CAD_OmniQuad/README.md)
-- [Haptic-RC CAD resources](CAD_Haptic_RC/README.md)
+- [OMAV platform CAD resources](OmniQuad/README.md)
+- [Haptic-RC CAD resources](Haptic_RC/README.md)
