@@ -1,6 +1,6 @@
 # Haptic-OmniQuad-Design
 
-This repository contains the files necessary for building the Haptic RC and the omnidirectional drone (Omniquad) presented in the paper called "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction". The ultimate objective is to improve reproducibility in robotics, by providing a complete telemanipulation system.
+This repository contains the files necessary for building the Haptic RC and the omnidirectional drone (Omniquad) presented in the paper called "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction". The ultimate objective is to improve reproducibility in robotics, by providing a complete telemanipulation system. They can both be manufactured and used separatly, but make more sense to be used together.
 
 ![alt text](assets/cad_image_platform.png)
 

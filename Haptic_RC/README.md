@@ -1,6 +1,6 @@
 # Haptic RC
 
-This folder contains the files to building the Haptic RC presented in the paper "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction". The objective is to improve reproducibility in robotics, by providing an haptic remote controller for a telemanipulation system.
+This folder contains the files to build the Haptic RC presented in the paper "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction". The objective is to improve reproducibility in robotics, by providing an haptic remote controller for a telemanipulation system.
 
 Virtual spring           |  Force feedback
 :-------------------------:|:-------------------------:
@@ -58,6 +58,4 @@ Joystick driver can be found in the scripts folder with the [ROS2 workspace](htt
 
 ## Aerial Robot
 
-The areial robot
-- [OMAV platform CAD resources](OmniQuad/README.md)
-- [Haptic-RC CAD resources](Haptic_RC/README.md)
+The omnidirectional robot [resources](OmniQuad/README.md).
