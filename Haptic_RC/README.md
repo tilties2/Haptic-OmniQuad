@@ -58,4 +58,4 @@ Joystick driver can be found in the scripts folder with the [ROS2 workspace](htt
 
 ## Aerial Robot
 
-The omnidirectional robot [resources](OmniQuad/README.md).
+The omnidirectional robot [resources](../OmniQuad/README.md).
