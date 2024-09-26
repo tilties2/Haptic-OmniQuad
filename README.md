@@ -1,12 +1,12 @@
 # Haptic-OmniQuad-Design
 
-This repository contains the files necessary for building the Haptic RC and the omnidirectional drone (Omniquad) presented in "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction".
+This repository contains the files necessary for building the Haptic RC and the omnidirectional drone (Omniquad) presented in the paper called "Design and Control of an Omnidirectional Aerial Robot with 4DoF Haptic Joystick for Physical Interaction". The ultimate objective is to improve reproducibility in robotics, by providing a complete telemanipulation system.
 
-![alt text](Media/cad_image_platform.png)
+![alt text](assets/cad_image_platform.png)
 
 HAPTIC RC           |  OMNIQUAD
 :-------------------------:|:-------------------------:
-![alt text](Media/haptic_rc.GIF)  |  ![alt text](Media/omniquad.GIF)
+![alt text](assets/haptic_rc.GIF)  |  ![alt text](assets/omniquad.GIF)
 
 
 More information on the Autopilot integrated in Omniquad can be found here [PX4-Omniquad](https://github.com/tilties2/PX4-OmniQuad.git)
