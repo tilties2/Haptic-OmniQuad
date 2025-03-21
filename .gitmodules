@@ -1,0 +1,3 @@
+[submodule "OmniQuad"]
+	path = OmniQuad
+	url = https://github.com/tilties2/omniquad.git
